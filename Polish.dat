@@ -417,90 +417,90 @@ Message.MessageWaitHelp:Specify the first argument in seconds.
 Message.TemplateNotFoundHost:No messages matching "{0}" were found.\nPlease add to template.txt like so:\n{0}:contents\n\nDefined Tags:\n{1}
 Message.TemplateNotFoundClient:No messages matching "{0}" were found.
 Message.SyncButtonLeft:There are {0} more emergency buttons left
-Message.Executed:{0} was executed
-Message.HideGameSettings:Game settings have been hidden by the host.
-Message.NoDescription:No description.
-Message.KickedByDenyName:{0} was kicked because its name matched "{1}".
-Message.BanedByBanList:{0} has been banned because it has been banned in the past.
-Message.KickedByNoFriendCode:{0} was kicked because the friend code does not exist.
-Message.AddedPlayerToBanList:Added {0} to the ban list.
-Message.FailedToLoadOptions:Failed to load options
-Message.CopiedOptions:Copied options
-Message.ExportedOptions:Exported options
-Message.LoadedOptions:Loaded options
-Message.OnlyHostCanLoadOptions:Only the host can load options
-Warning.EgoistCannotWin:Egoist cannot win
-Warning.OverrideExiledPlayer:All ejects will be displayed as a tie since the total number of impostors is 1.
-Warning.InvalidRpc:Kicked {0} because an invalid RPC was received.\nPlease check that no mods other than TOH installed.
-Warning.NoModHost:No mod installed on the host
-Warning.MismatchedVersion:{0}\nhave a different version of {1}
-Warning.AutoExitAtMismatchedVersion:The host has no or a different version of {0}\nYou will be kicked in {1}
-Warning.NotMatchImpostorCount:Max/min number of Impostor roles is greater than the number of Impostors.
-Warning.NotMatchRoleCount:The role is not cast correctly because the minimum number of roles is greater than the number of players.
-Error.MeetingException:Error: {0}\r\nPlease use SHIFT+M+ENTER to end the meeting
-Error.InvalidRoleAssignment:Error: Invalid role found for a player during role assignment({0})
-Error.SpeedBoosterNullException:Error: The speed boost destination is null.\nPlease save the log and create a bug report ticket.
-Error.InvalidColor:Error: Only default colors are available.
-ErrorLevel1:Bugs may occur.
-ErrorLevel2:This may be a bug.
-ErrorLevel3:This version shouldn't have been released.
-TerminateCommand:Abort Command
-ERR-000-000-0:No Error
-ERR-000-900-0:Test Error Lv.0
-ERR-000-910-1:Test Error Lv.1
-ERR-000-920-2:Test Error Lv.2
-ERR-000-930-3:Test Error Lv.3
-ERR-000-804-1:TownOfHost does not support the Vanilla HnS, so unloaded.
+Message.Executed:{0} zostal/a Wyeliminowany/a
+Message.HideGameSettings:Ustawienia gry zostaly ukryte przez gospodarza.
+Message.NoDescription:Bez opisu.
+Message.KickedByDenyName:{0} zostal/a wyrzucony/a, poniewaz jego/jej nazwa sie zgadzala z "{1}".
+Message.BanedByBanList:{0} zostal/a zbanowany/a, poniewaz zostal/z zbanowany/a w przeszlosci.
+Message.KickedByNoFriendCode:{0} zostal/a wyrzucony, poniewaz kod znajomego nie istnieje.
+Message.AddedPlayerToBanList:Dodano {0} do listy zbanowanych graczy.
+Message.FailedToLoadOptions:Nie udalo sie zaladowac opcji
+Message.CopiedOptions:Skopiowano opcje
+Message.ExportedOptions:Eksportowano opcje
+Message.LoadedOptions:Zaladowano opcje
+Message.OnlyHostCanLoadOptions:Tylko host moze zaladowac opcje
+Warning.EgoistCannotWin:Egoista nie moze wygrac
+Warning.OverrideExiledPlayer:Wszystkie wyrzucenia beda wyswietlane jako remis, poniewaz calkowita liczba Impostorow wynosi 1.
+Warning.InvalidRpc:Wyrzucono cie {0} poniewaz otrzymano nieprawidlowe wywolanie RPC.\nSprawdz, czy nie zainstalowano zadnych innych modow niz Town Of Host.
+Warning.NoModHost:Brak zainstalowanego moda na hoscie
+Warning.MismatchedVersion:{0}\nmasz inna wersje {1}
+Warning.AutoExitAtMismatchedVersion:Host nie ma lub ma inna wersje {0}\nZostaniesz wrzucony {1}
+Warning.NotMatchImpostorCount:Max/min liczba rol Impostorow jest wieksza niz liczba Impostorow.
+Warning.NotMatchRoleCount:Rola nie zostala obsadzona poprawnie, poniewaz minimalna liczba rol jest wieksza niz liczba graczy.
+Error.MeetingException:Blad: {0}\r\nAby zakonczyc spotkanie, uzyj klawiszy SHIFT+M+ENTER
+Error.InvalidRoleAssignment:Blad: Podczas przypisywania roli znaleziono nieprawidlowa role dla gracza({0})
+Error.SpeedBoosterNullException:Blad: Cel Przyspieszaca jest niezgodny.\nZapisz blad [Ctrl + F1] i utworz zgloszenie bledu na Discordzie Town Of Host.
+Error.InvalidColor:Blad: Dostepne sa tylko kolory domyslne.
+ErrorLevel1:Moga wystapic bledy.
+ErrorLevel2:To moze byc blad.
+ErrorLevel3:Ta wersja nie powinna byc wydana.
+TerminateCommand:Przerwij komende
+ERR-000-000-0:Brak bledow
+ERR-000-900-0:Blad Lv.0
+ERR-000-910-1:Blad Lv.1
+ERR-000-920-2:Blad Lv.2
+ERR-000-930-3:Blad Lv.3
+ERR-000-804-1:Town Of Host nie obsluguje Zabawy W Chowanego od Among Us.
 ERR-001-000-3:Main dictionary has duplicated keys.
-ERR-002-000-1:Unsupported AmongUs version. Please update.
-DefaultSystemMessageTitle:【===== System Message =====】
-MessageFromTheHost:【Message From The Host】
-TabGroup.MainSettings:Main Settings
-TabGroup.CrewmateRoles:Crewmate Roles
-TabGroup.NeutralRoles:Neutral Roles
-TabGroup.ImpostorRoles:Impostor Roles
-TabGroup.Addons:Add-Ons
-ActiveRolesList:Active Roles List
-ForExample:Example Use
-ForceEnd:Aborted
-EveryoneDied:No One Left
-ForceEndText:Host has aborted the game
-HideGameCodes:Hide Game Code
-updateButton:Update
-updatePleaseWait:Please Wait...
-updateManually:Update failed.\nPlease Update Manually.
-updateInProgress:Updating...
-announcementUpdate:<size=3f>Update v{0}</size>\n{1}
-announcementChangelog:<size=3f>ChangeLogs v{0}</size>\n{1}
-updateRestart:Update Finished!\nPlease restart the game.
-updateFailed:Update failed.
-onSetPublicNoLatest:Public rooms are only available in the latest version.\nPlease update.
-CanNotJoinPublicRoomNoLatest:You can't join public rooms without the latest version.\nPlease update.
-ModBrokenMessage:The MOD file is damaged.\nPlease reinstall.
-UnsupportedVersion:Unsupported AmongUs version.\nPlease update.
-DisabledByProgram:Public rooms have been disabled by the program
-EnterVentToWin:Enter Vent to Win!!
-FireworksPutPhase:{0} Fireworks Left
-FireworksWaitPhase:Wait for it...
-FireworksReadyFirePhase:Fire!
-StandardHAS:Hide And Seek with Roles
-StandardHASWaitingTime:Standby
-InvalidArgs:Invalid Args
+ERR-002-000-1:Nieobslugiwana wersja Among Us. Prosze zaktualizowac.
+DefaultSystemMessageTitle:【===== Wiadomosc systemowa =====】
+MessageFromTheHost:【Wiadomosc od hosta】
+TabGroup.MainSettings:Glowne ustawienia
+TabGroup.CrewmateRoles:Role Niewinnych
+TabGroup.NeutralRoles:Role Neutrali
+TabGroup.ImpostorRoles:Role Impostorow
+TabGroup.Addons:Modyfikacje
+ActiveRolesList:Lista aktywnych rol
+ForExample:Przykladowe uzycie
+ForceEnd:Anulowano
+EveryoneDied:Nikt nie zostal
+ForceEndText:Host anulowal gre
+HideGameCodes:Ukryj kod gry
+updateButton:Aktualizuj
+updatePleaseWait:Prosze czekac...
+updateManually:Aktualizacja nie powiodla sie.\nZaktualizuj recznie.
+updateInProgress:Aktualizowanie...
+announcementUpdate:<size=3f>Aktualizacja v{0}</size>\n{1}
+announcementChangelog:<size=3f>dzienniki zmian v{0}</size>\n{1}
+updateRestart:Aktualizacja zakonczona!\nProsze ponownie uruchomc gre.
+updateFailed:Aktualizacja nie powiodla sie.
+onSetPublicNoLatest:Pokoje publiczne sa dostepne tylko w najnowszej wersji.\nProsze zaktualizowac.
+CanNotJoinPublicRoomNoLatest:Nie mozesz dolaczac do pokojow publicznych bez najnowszej wersji.\nProsze zaktualizowac.
+ModBrokenMessage:Plik MOD jest uszkodzony.\nProsze zainstalowac ponownie.
+UnsupportedVersion:Nieobslugiwana wersja Among Us.\nProsze zaktualizowac.
+DisabledByProgram:Pokoje publiczne zostaly wylaczone przez program
+EnterVentToWin:Wejdz do wenta by wygrac!!!
+FireworksPutPhase:{0} Fajerwerek zostalo
+FireworksWaitPhase:Czekaj na odpowiedni moment...
+FireworksReadyFirePhase:Odpal!
+StandardHAS:Zabawa w chowanego z rolami
+StandardHASWaitingTime:Czekaj
+InvalidArgs:Nieprawidlowe argumenty
 On:ON
 Off:OFF
 ColoredOn:<color=#00fefe>ON</color>
 ColoredOff:<color=#ff4c6f>OFF</color>
-CurrentActiveSettingsHelp:Current Active Settings Help
-WitchCurrentMode:Current Mode:
-WitchModeKill:Kill
-WitchModeSpell:Spell
-WitchModeDouble:Double Enable
-BountyCurrentTarget:Current Target
-Roles:Roles
-Settings:Settings
-Addons:Add-Ons
-LastResult:Match Results
-KillLog:Kill Log
+CurrentActiveSettingsHelp:Biezace aktywne ustawienia
+WitchCurrentMode:Aktualny tryb:
+WitchModeKill:Zabij
+WitchModeSpell:Zaklec
+WitchModeDouble:Wlacz podwojne
+BountyCurrentTarget:Biezacy cel
+Roles:Role
+Settings:Ustawienia
+Addons:Modyfikacje
+LastResult:Wyniki Meczu
+KillLog:Dziennik Zabojstw
 Maximum:Max
 Rate0:0%
 Rate5:5%
@@ -514,40 +514,40 @@ Rate70:70%
 Rate80:80%
 Rate90:90%
 Rate100:100%
-Preset:Preset
-Preset_1:Preset 1
-Preset_2:Preset 2
-Preset_3:Preset 3
-Preset_4:Preset 4
-Preset_5:Preset 5
-Standard:Standard
-GameMode:Game Mode
-PressTabToNextPage:Press Tab or Number for Next Page...
-RoleSummaryText:Game End Player-Roles List:
-doOverride:Override %role%'s Tasks(At Least 1)
-assignCommonTasks:Give %role% Common Tasks
-roleLongTasksNum:%role% Long Tasks
-roleShortTasksNum:%role% Short Tasks
+Preset:Ustawienie
+Preset_1:Ustawienie 1
+Preset_2:Ustawienie 2
+Preset_3:Ustawienie 3
+Preset_4:Ustawienie 4
+Preset_5:Ustawienie 5
+Standard:Standardowy
+GameMode:Tryb gry
+PressTabToNextPage:Nacisnij Tab lub Numer, aby przejsc do nastepnej strony...
+RoleSummaryText:Lista rol graczy na koniec gry:
+doOverride:Nadpisz %role% zadania (Co Najmniej 1)
+assignCommonTasks:Daj %role% Zwykle zadania
+roleLongTasksNum:%role% Dlugie zadania
+roleShortTasksNum:%role% Krotkie zadania
 Format.Players:{0}
-Format.Seconds:{0}s
+Format.Seconds:{0}
 Format.Percent:{0}%
 Format.Times:{0}
 Format.Multiplier:{0}x
 Format.Votes:{0}
 Format.Pieces:{0}
-KillButtonText:Kill
-SniperSnipeButtonText:Snipe
-FireWorksExplosionButtonText:Fire
-FireWorksInstallAtionButtonText:Set
-SerialKillerSuicideButtonText:Suicide Timer
-WarlockCurseButtonText:Curse
-WitchSpellButtonText:Spell
-VampireBiteButtonText:Bite
-ArsonistDouseButtonText:Douse
-PuppeteerOperateButtonText:Manipulate
-BountyHunterChangeButtonText:Swap
-EvilTrackerChangeButtonText:Track
-DefaultShapeshiftText:Shift
-DisabledBySettings:Disabled by Settings
-Disabled:Disabled
-FailToTrack:Failed To Track
+KillButtonText:Zabij
+SniperSnipeButtonText:Zestrzel
+FireWorksExplosionButtonText:Odpal
+FireWorksInstallAtionButtonText:Ustaw
+SerialKillerSuicideButtonText:Licznik samobojstwa
+WarlockCurseButtonText:Klatwa
+WitchSpellButtonText:Zaklec
+VampireBiteButtonText:Ugryz
+ArsonistDouseButtonText:Oblej
+PuppeteerOperateButtonText:Zmanipuluj
+BountyHunterChangeButtonText:Zamien
+EvilTrackerChangeButtonText:Sledz
+DefaultShapeshiftText:Zmien sie
+DisabledBySettings:Wylaczone przez ustawienia
+Disabled:Wylaczone
+FailToTrack:Sledzenie nie powiodlo sie
