@@ -1,118 +1,118 @@
-Neutral:Neutral
-Crewmate:Crewmate
-Engineer:Engineer
-Scientist:Scientist
-GuardianAngel:Guardian Angel
+Neutral:Neutralny
+Crewmate:Niewinny
+Engineer:Inzynier
+Scientist:Naukowiec
+GuardianAngel:Aniol Stroz
 Impostor:Impostor
-Shapeshifter:Shapeshifter
-BountyHunter:Bounty Hunter
-Mare:Mare
-FireWorks:Fireworker
-SerialKiller:Serial Killer
-ShapeMaster:ShapeMaster
-Vampire:Vampire
-Warlock:Warlock
-Witch:Witch
+Shapeshifter:Zmiennoksztaltny
+BountyHunter:Lowca Glow
+Mare:Zmora
+FireWorks:Fajerwerk
+SerialKiller:Seryjny Morderca
+ShapeMaster:Mistrz ksztaltu
+Vampire:Wampir
+Warlock:Czarodziej
+Witch:Wiedzma
 Mafia:Mafia
-Puppeteer:Puppeteer
-TimeThief:Time Thief
-Sniper:Sniper
-EvilTracker:EvilTracker
-Madmate:Madmate
-MadGuardian:Mad Guardian
-MadSnitch:Mad Snitch
-SKMadmate:Sidekick Madmate
-Bait:Bait
-Lighter:Lighter
-Mayor:Mayor
-SabotageMaster:Sabotage Master
-Sheriff:Sheriff
-Arsonist:Arsonist
-Snitch:Snitch
-SpeedBooster:Speed Booster
-Doctor:Doctor
-Trapper:Beartrap
-Dictator:Dictator
-Seer:Seer
-TimeManager:TimeManager
-Jester:Jester
-Terrorist:Terrorist
-Executioner:Executioner
-SchrodingerCat:Schrödinger's Cat
-CSchrodingerCat:Schrödinger's Cat
-MSchrodingerCat:Schrödinger's Cat
-EgoSchrodingerCat:Schrödinger's Cat
-JSchrodingerCat:Schrödinger's Cat
-Opportunist:Opportunist
-Egoist:Egoist
-Lovers:Lovers
-Jackal:Jackal
-HASFox:Fox
+Puppeteer:Marionetkarz
+TimeThief:Zlodziej Czasu
+Sniper:Snajper
+EvilTracker:Zly Tropiciel
+Madmate:Zlyniewinny
+MadGuardian:Zly Stroz
+MadSnitch:Zly Kapus
+SKMadmate:Zly Pomocnik
+Bait:Przyneta
+Lighter:Latarnik
+Mayor:Burmistrz
+SabotageMaster:Mistrz Sabotazu
+Sheriff:Szeryf
+Arsonist:Podpalacz
+Snitch:Kapus
+SpeedBooster:Przyspieszacz
+Doctor:Doktor
+Trapper:Pulapka
+Dictator:Dyktator
+Seer:Jasnowidz
+TimeManager:Menedzer Czasu
+Jester:Blazen
+Terrorist:Terrorysta
+Executioner:Kat
+SchrodingerCat:Kot Schrödingera
+CSchrodingerCat:Kot Schrödingera
+MSchrodingerCat:Kot Schrödingera
+EgoSchrodingerCat:Kot Schrödingera
+JSchrodingerCat:Kot Schrödingera
+Opportunist:Oportunista
+Egoist:Egoista
+Lovers:Kochankowie
+Jackal:Szakal
+HASFox:Lis
 HASTroll:Troll
-GM:GM
-LastImpostor:Last Impostor
-Watcher:Watcher
-Workhorse:Workhorse
-CustomRoleTypes.Crewmate:Crewmate
-CustomRoleTypes.Impostor:Impostor
-CustomRoleTypes.Neutral:Neutral
-CustomRoleTypes.Madmate:Mad
-TeamCrewmate:Team Crewmates
-TeamImpostor:Team Impostors
-TeamEgoist:Team Egoist
-TeamJackal:Team Jackal
-NeutralInfo:Independent forces unaffiliated with any other teams
-BountyHunterInfo:Eliminate your target
-MareInfo:Darkness aids you. Kill
-FireWorksInfo:Go out with a BANG
-SerialKillerInfo:Unleash your bloodlust
-ShapeMasterInfo:Shapeshift and confuse others
-VampireInfo:Bite and annihilate
-WarlockInfo:Cast your curses
-WitchInfo:Cast your spells
-MafiaInfo:Support the imposters and kill
-BeforeMafiaInfo:You can't kill yet
-AfterMafiaInfo:It's time to kill
-PuppeteerInfo:Force the Crewmate to kill
-TimeThiefInfo:Kill to steal meeting time
-SniperInfo:Snipe
-LastImpostorInfo:You are the last of us
-EvilTrackerInfo:Track others
-MadmateInfo:Help the Impostors
-BeforeMadmateInfo:Finish your tasks
-MadGuardianInfo:Finish your tasks and help the Impostors
-MadSnitchInfo:Finish your tasks and help the Impostors
-SKMadmateInfo:You are now on Team Impostors
-BaitInfo:Bait your enemies
-LighterInfo:Light 'em up
-MayorInfo:Your vote has more influence
-SabotageMasterInfo:Fix sabotages faster
-SheriffInfo:Shoot the Impostors
-SnitchInfo:Finish your tasks to find the Impostors
-SpeedBoosterInfo:Boost others' speed
-DoctorInfo:And thus they died...
-TrapperInfo:Trap your enemies
-DictatorInfo:Decide who to eject
-SeerInfo:You see the moment someone dies
-TimeManagerInfo:Do the tasks and extend meeting time
-ArsonistInfo:Burn them to crisps
-JesterInfo:Get voted out
-OpportunistInfo:Just stay alive
-SchrodingerCatInfo:Get killed and join your killer's team
-CSchrodingerCatInfo:You are now on Team Crewmate
-MSchrodingerCatInfo:You are now on Team Impostor
-EgoSchrodingerCatInfo:You are now on Team Egoist
-JSchrodingerCatInfo:You are now on Team Jackal
-TerroristInfo:Finish your tasks, THEN die
-ExecutionerInfo:Get your target voted out
-EgoistInfo:Take over the Impostors' victory
-LoversInfo:Live happily ever after, together
-JackalInfo:Kill Everyone
-HASFoxInfo:Just stay alive
-HASTrollInfo:Get killed
-GMInfo:You are the Game Master
-WatcherInfo:Gaze upon all votes
-WorkhorseInfo:You have Extra tasks
+GM:Mistrz Gry
+LastImpostor:Ostatni Impostor
+Watcher:Obserwator
+Workhorse:Kon Pociagowy
+CustomRoleTypes.Crewmate:Niewinni
+CustomRoleTypes.Impostor:Impostorzy
+CustomRoleTypes.Neutral:Neutrale
+CustomRoleTypes.Madmate:Zli
+TeamCrewmate:Druzyna Niewinnych
+TeamImpostor:Druzyna Impostorow
+TeamEgoist:Druzyna Egoisty
+TeamJackal:Druzyna Szakali
+NeutralInfo:Niezalezna rola niepowiazana z zadnymi innymi zespolami
+BountyHunterInfo:Wyeliminuj swoj cel
+MareInfo:Ciemnosc ci pomaga zabic
+FireWorksInfo:Wyjdz a HUKIEM
+SerialKillerInfo:Uwolnij swoja zadze krwi
+ShapeMasterInfo:Zmieniaj ksztalty i dezorientuj innych
+VampireInfo:Ugryzc i ucieknij
+WarlockInfo:Rzuc swoja klatwe
+WitchInfo:Rzuc swoje Zaklecia
+MafiaInfo:Wspieraj Impostorow i zabijaj
+BeforeMafiaInfo:Nie mozesz jeszcze zabijac
+AfterMafiaInfo:Czas zabijac
+PuppeteerInfo:Zmus Niewinnego do zabicia innej osoby
+TimeThiefInfo:Zabijaj, aby krasc czas spotkania
+SniperInfo:Zestrzel
+LastImpostorInfo:Jestes ostatnim z nas
+EvilTrackerInfo:Sledz innych
+MadmateInfo:Pomoz Impostorom
+BeforeMadmateInfo:Dokoncz swoje zadania
+MadGuardianInfo:Zakoncz swoje zadania i pomoz Impostorom
+MadSnitchInfo:Zakoncz swoje zadania i pomoz Impostorom
+SKMadmateInfo:Jestes teraz w Druzynie Impostorow
+BaitInfo:Zmus wroga do zabicia ciebie
+LighterInfo:Zapal sie
+MayorInfo:Twoj glos ma wiekszy wplyw
+SabotageMasterInfo:naprawiasz sabotaze sam
+SheriffInfo:Strzel w Impostorow
+SnitchInfo:Zakoncz swoje zadania, aby znalezc Impostorow
+SpeedBoosterInfo:Zwieksz predkosc innej osoby
+DoctorInfo:Sprawdzaj czy ktos nie umarl
+TrapperInfo:Uwiez swojego wroga
+DictatorInfo:Zdecyduj, kogo wyrzucic
+SeerInfo:Widzisz moment, w ktorym ktos umiera
+TimeManagerInfo:Wykonuj zadania i wydluzaj czas spotkania
+ArsonistInfo:Spal wszystkich
+JesterInfo:Daj się przeglosowac
+OpportunistInfo:Po prostu zyj
+SchrodingerCatInfo:Daj sie zabic i dolacz do druzyny swojego zabojcy
+CSchrodingerCatInfo:Jestes teraz w druzynie Niewinnych
+MSchrodingerCatInfo:Jestes teraz w druzynie Impostorow
+EgoSchrodingerCatInfo:Jestes teraz w druzynie Egoisty
+JSchrodingerCatInfo:Jestes teraz w druzynie Szakali
+TerroristInfo:Zakoncz swoje zadania, a nastepnie wskocz do wenta aby wygrac
+ExecutionerInfo:Przeglosuj swoj cel
+EgoistInfo:Przejmij zwyciestwo Impostorow
+LoversInfo:Zyjcie dlugo i szczesliwie razem
+JackalInfo:Zabij wszystkich
+HASFoxInfo:Po prostu zyj
+HASTrollInfo:Daj sie zabic
+GMInfo:Jestes Mistrzem Gry
+WatcherInfo:Spojrz na wszystkie glosy
+WorkhorseInfo:Masz dodatkowe zadania
 BountyHunterInfoLong:(Impostors):\nIf you kill your indicated target, your next kill cooldown will be greatly reduced.\nIf you kill anyone other than your target, your next kill cooldown will increase.\nThe target swaps after a configurable amount of time.
 FireWorksInfoLong:(Impostors):\nWhenever you shapeshift, you can place a firework.\n After placing all fireworks, you can set them all off at once when you shapeshift once you become the last impostor.\nOnce you start placing fireworks, you cannot kill until the fireworks go off.
 SerialKillerInfoLong:(Impostors):\nYou have a shorter kill cooldown than other impostors', but you will die if you don't kill before the end of your shapeshift cooldown.
@@ -157,95 +157,95 @@ GMInfoLong:(None):\nThe GM (Game Master) is an observer role.\nTheir presence ha
 LastImpostorInfoLong:(Add-ons):\nAn Add-on granted to the last Impostor remaining.\nKill cooldown is reduced according to this setting.\nNot granted to Bounty Hunters, Serial Killers, or Vampires.
 WatcherInfoLong:(Add-ons):\nYou can see everyone's votes even if anonymous voting is on.
 WorkhorseInfoLong:(Add-ons):\nAn Add-on granted to the first living Crewmate finishing all the tasks.\nYou are assigned additional tasks necessary for the tasks win.\nNot granted to roles with no tasks or with abilities triggered by finishing tasks.
-HideAndSeek:Hide and Seek
-NoGameEnd:NoGameEnd
-SyncButtonMode:SyncButtonMode
-RandomMapsMode:RandomMapsMode
-SyncedButtonCount:Max Number of Buttons Allowed
-AddedTheSkeld:Include TheSkeld
-AddedMIRAHQ:Include MIRAHQ
-AddedPolus:Include Polus
-AddedTheAirShip:Include TheAirShip
-AllAliveMeeting:Meeting When No One is Dead
-AllAliveMeetingTime:Meeting Time When No One is Dead
-AdditionalEmergencyCooldown:Additional Emergency Cooldown
-AdditionalEmergencyCooldownThreshold:Applied Living Player Count
-AdditionalEmergencyCooldownTime:Additional Cooldown
-LadderDeath:Fall From Ladders
-LadderDeathChance:Fall To Death Chance
-DisableTasks:Disable Tasks
-DisableSwipeCardTask:Disable SwipeCard Tasks
-DisableSubmitScanTask:Disable SubmitScan Tasks
-DisableUnlockSafeTask:Disable UnlockSafe Tasks
-DisableUploadDataTask:Disable UploadData Tasks
-DisableStartReactorTask:Disable StartReactor Tasks
-DisableResetBreakerTask:Disable ResetBreaker Tasks
-SuffixMode:Suffix
-SuffixMode.None:None
-SuffixMode.Version:Version
-SuffixMode.Streaming:Streaming
-SuffixMode.Recording:Recording
-SuffixMode.RoomHost:Room Host
-SuffixMode.OriginalName:OriginalName
-ColorNameMode:Color Name Mode
-FixFirstKillCooldown:Normalize First Kill Cooldown
-GhostCanSeeOtherRoles:Ghosts Can See Other Roles
-GhostCanSeeOtherTasks:Ghosts Can See Other Tasks
-GhostCanSeeOtherVotes:Ghosts Can See Other Votes
-GhostCanSeeDeathReason:Ghost Can See Cause Of Death
-GhostIgnoreTasks:Ghosts Exempt From Tasks
-DisableTaskWin:Disable Task Win
-HideGameSettings:Hide Game Settings
-RoleOptions:Role Options
-ModeOptions:Mode Options
-AutoDisplayLastResult:Auto Display Last Result
-AutoDisplayKillLog:Auto Display KillLog
-VoteMode:Voting Mode
-WhenSkipVote:When Skip Vote
-WhenSkipVoteIgnoreFirstMeeting:Ignore First Meeting
-WhenSkipVoteIgnoreNoDeadBody:Ignore When No DeadBody
-WhenSkipVoteIgnoreEmergency:Ignore When Emergency Button
-WhenNonVote:When No Votes
-Default:Default
-Suicide:Suicide
-SelfVote:Self Vote
-Skip:Skip
-WhenTie:When Tied Vote
-TieMode.Default:Default
-TieMode.All:Eject All
-TieMode.Random:Eject Random
-DisableDevices:Disable Devices
-DisableSkeldDevices:Disable Skeld Devices
-DisableMiraHQDevices:Disable MiraHQ Device
-DisablePolusDevices:Disable Polus Device
-DisableAirshipDevices:Disable Airship Device
-DisableSkeldAdmin:Disable Admin
-DisableMiraHQAdmin:Disable Admin
-DisablePolusAdmin:Disable Admin
-DisableAirshipCockpitAdmin:Disable Cockpit Admin
-DisableAirshipRecordsAdmin:Disable Records Admin
-DisableSkeldCamera:Disable Camera
-DisablePolusCamera:Disable Camera
-DisableAirshipCamera:Disable Camera
-DisableMiraHQDoorLog:Disable DoorLog
-DisablePolusVital:Disable Vital
-DisableAirshipVital:Disable Vital
-IgnoreConditions:Ignore Conditions
-IgnoreImpostors:Ignore Impostors
-IgnoreMadmates:Ignore Madmates
-IgnoreNeutrals:Ignore Neutrals
-IgnoreCrewmates:Ignore Crewmates
-IgnoreAfterAnyoneDied:Ignore After Anyone Has Died
-LightsOutSpecialSettings:Fix Lights Special Settings
-DisableAirshipViewingDeckLightsPanel:Disable Viewing Deck Lights Panel(Airship)
-DisableAirshipGapRoomLightsPanel:Disable Gap Room Lights Panel(Airship)
-DisableAirshipCargoLightsPanel:Disable Cargo Lights Panel(Airship)
-MapModification:Map Modifications
-DisableAirshipMovingPlatform:Disable Moving Platform(Airship)
-AirShipVariableElectrical:Variable Electrical(AirShip)
-RandomSpawn:Random Spawn
-AirshipAdditionalSpawn:Additional Spawn(Airship)
-CommsCamouflage:Camouflage During Comms
+HideAndSeek:Zabawa w chowanego
+NoGameEnd:Bez konca gry
+SyncButtonMode:Tryb przycisku synchronizacji
+RandomMapsMode:Tryb losowych map
+SyncedButtonCount:Maksymalna liczba przyciskow dozwolone
+AddedTheSkeld:Obejmij TheSkeld
+AddedMIRAHQ:Obejmij MIRAHQ
+AddedPolus:Obejmij Polus
+AddedTheAirShip:Obejmij TheAirShip
+AllAliveMeeting:Spotkanie, gdy nikt nie jest martwy
+AllAliveMeetingTime:Czas spotkania, kiedy nikt nie jest martwy
+AdditionalEmergencyCooldown:Dodatkowy awaryjny czas odnowienia spotkania
+AdditionalEmergencyCooldownThreshold:Zastosowana liczba zyjacych graczy
+AdditionalEmergencyCooldownTime:Dodatkowy czas odnowienia
+LadderDeath:Spadek Z Drabin
+LadderDeathChance:Szansa na upadek na smierć
+DisableTasks:Wylacz zadania
+DisableSwipeCardTask:Wylacz zadanie SwipeCard
+DisableSubmitScanTask:Wylacz zadanie SubmitScan
+DisableUnlockSafeTask:Wylacz zadanie UnlockSafe
+DisableUploadDataTask:Wylacz zadanie UploadData
+DisableStartReactorTask:Wylacz zadanie StartReactor
+DisableResetBreakerTask:Wylacz zadanie ResetBreaker
+SuffixMode:Przyrostek
+SuffixMode.None:Nic
+SuffixMode.Version:Wersja
+SuffixMode.Streaming:Streamowanie
+SuffixMode.Recording:Nagrywanie
+SuffixMode.RoomHost:Pokoj Hosta
+SuffixMode.OriginalName:Originalna Nazwa
+ColorNameMode:Tryb nazwy koloru
+FixFirstKillCooldown:Normalizuj czas odnowienia pierwszego zabojstwa
+GhostCanSeeOtherRoles:Duchy widza widziec inne role
+GhostCanSeeOtherTasks:Duchy widza inne zadania
+GhostCanSeeOtherVotes:Duchy widza inne głosy
+GhostCanSeeDeathReason:Duchy widza inne głosy
+GhostIgnoreTasks:Duchy zwolnione z zadan
+DisableTaskWin:Wylacz wygranie na zadania
+HideGameSettings:Ukryj ustawienia gry
+RoleOptions:Opcje roli
+ModeOptions:Opcje trybu
+AutoDisplayLastResult:Automatyczne wyswietlanie ostatniego wyniku
+AutoDisplayKillLog:Automatyczne wyswietlanie dziennika zabojstw
+VoteMode:Tryb glosowania
+WhenSkipVote:Kiedy pominie glosowanie
+WhenSkipVoteIgnoreFirstMeeting:Ignoruj ​​pierwsze spotkanie
+WhenSkipVoteIgnoreNoDeadBody:Ignoruj, kiedy nie ma trupa
+WhenSkipVoteIgnoreEmergency:Ignoruj, kiedy jest przycisk awaryjny
+WhenNonVote:Kiedy nikt nie glosuje
+Default:Domyslne
+Suicide:Samobojstwo
+SelfVote:Glosowanie na siebie
+Skip:Pomin
+WhenTie:Kiedy jest remis w glosowaniu
+TieMode.Default:Domyslne
+TieMode.All:Wyrzuc wszystkich
+TieMode.Random:Wyrzuc losowo
+DisableDevices:Wylacz Urzadzenia
+DisableSkeldDevices:Wylacz urzadzenia na Skeld
+DisableMiraHQDevices:Wylacz urzadzenia na MiraHQ
+DisablePolusDevices:Wylacz urzadzenia na Polus
+DisableAirshipDevices:Wylacz urzadzenia na Airship
+DisableSkeldAdmin:Wylacz Admin
+DisableMiraHQAdmin:Wylacz Admin
+DisablePolusAdmin:Wylacz Admin
+DisableAirshipCockpitAdmin:Wylacz admina w kabine pilota
+DisableAirshipRecordsAdmin:Wylacz admin w dokumentacji
+DisableSkeldCamera:Wylacz Kamery
+DisablePolusCamera:Wylacz Kamery
+DisableAirshipCamera:Wylacz Kamery
+DisableMiraHQDoorLog:Wylacz Drzwi
+DisablePolusVital:Wylacz Witalsy
+DisableAirshipVital:Wylacz Witalsy
+IgnoreConditions:Ignoruj ​​warunki
+IgnoreImpostors:Ignoruj Impostorow
+IgnoreMadmates:Ignoruj Zlych
+IgnoreNeutrals:Ignoruj Neutralnych
+IgnoreCrewmates:Ignoruj Niewinnych
+IgnoreAfterAnyoneDied:Ignoruj ​​po smierci kogokolwiek
+LightsOutSpecialSettings:Specjalne ustawienia naprawiania swiatel
+DisableAirshipViewingDeckLightsPanel:Wylacz Viewing Deck Lights Panel (Airship)
+DisableAirshipGapRoomLightsPanel:Wylacz Gap Room Lights Panel (Airship)
+DisableAirshipCargoLightsPanel:Wylacz Cargo Lights Panel (Airship)
+MapModification:Modyfikacje mapy
+DisableAirshipMovingPlatform:Wylacz ruchoma platforme (Airship)
+AirShipVariableElectrical:Zmienne elektryczne (AirShip)
+RandomSpawn:Losowy spawn
+AirshipAdditionalSpawn:Dodatkowe spawnowanie (Airship)
+CommsCamouflage:Kamuflaz podczas komunikacji
 EnableDebugMode:Enable Debug Mode
 ChangeNameToRoleInfo:Show Role Descriptions to Unmodded Client
 RoleAssigningAlgorithm:Role Assigning Algorithm
