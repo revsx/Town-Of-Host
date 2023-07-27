@@ -246,17 +246,17 @@ AirShipVariableElectrical:Zmienne elektryczne (AirShip)
 RandomSpawn:Losowy spawn
 AirshipAdditionalSpawn:Dodatkowe spawnowanie (Airship)
 CommsCamouflage:Kamuflaz podczas komunikacji
-EnableDebugMode:Enable Debug Mode
-ChangeNameToRoleInfo:Show Role Descriptions to Unmodded Client
-RoleAssigningAlgorithm:Role Assigning Algorithm
-RoleAssigningAlgorithm.Default:Default
+EnableDebugMode:Wlacz tryb debugowania
+ChangeNameToRoleInfo:Pokaz opisy rol niezmodyfikowanemu klientowi
+RoleAssigningAlgorithm:Algorytm przypisywania rol
+RoleAssigningAlgorithm.Default:Domyslny
 RoleAssigningAlgorithm.NetRandom:.NET System.Random
 RoleAssigningAlgorithm.HashRandom:HashRandom
 RoleAssigningAlgorithm.Xorshift:Xorshift
 RoleAssigningAlgorithm.MersenneTwister:Mersenne Twister
-ApplyDenyNameList:Apply DenyName List
-KickPlayerFriendCodeNotExist:Kick Players Whose Friend Code Does Not Exist
-ApplyBanList:Apply BanList
+ApplyDenyNameList:Zastosuj liste odrzuconych nazw uzytkownikow
+KickPlayerFriendCodeNotExist:Wyrzuc graczy, ktorych kod znajomego nie istnieje
+ApplyBanList:Zastosuj liste zbanowanych uzytkowinikow
 HideAndSeekInfo:Hide and Seek:\nNo emergency meetings. Crewmates (Blue) can only win by finishing tasks\nand impostors (Red) can only win by killing all crewmates.
 StandardHASInfo:Hide and Seek with Roles:\nNo emergency meetings. Crewmates can only win by finishing tasks and impostors can only win by killing all crewmates.
 NoGameEndInfo:NoGameEnd:\nA mode for debugging with no victory. The only way to end the game is to have the host SHIFT+L+ENTER.
