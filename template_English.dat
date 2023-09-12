@@ -17,7 +17,12 @@ Mafia:Mafia
 Puppeteer:Puppeteer
 TimeThief:Time Thief
 Sniper:Sniper
-EvilTracker:EvilTracker
+EvilTracker:Evil Tracker
+Stealth:Stealth
+NekoKabocha:Neko-Kabocha
+EvilHacker:Evil Hacker
+Penguin:Penguin
+Insider:Insider
 Madmate:Madmate
 MadGuardian:Mad Guardian
 MadSnitch:Mad Snitch
@@ -39,14 +44,11 @@ Jester:Jester
 Terrorist:Terrorist
 Executioner:Executioner
 SchrodingerCat:Schrödinger's Cat
-CSchrodingerCat:Schrödinger's Cat
-MSchrodingerCat:Schrödinger's Cat
-EgoSchrodingerCat:Schrödinger's Cat
-JSchrodingerCat:Schrödinger's Cat
 Opportunist:Opportunist
 Egoist:Egoist
 Lovers:Lovers
 Jackal:Jackal
+PlagueDoctor:Plague Doctor
 HASFox:Fox
 HASTroll:Troll
 GM:GM
@@ -78,6 +80,11 @@ TimeThiefInfo:Kill to steal meeting time
 SniperInfo:Snipe
 LastImpostorInfo:You are the last of us
 EvilTrackerInfo:Track others
+StealthInfo:Act unseen in the dark world...
+NekoKabochaInfo:Take your killer to your grave
+EvilHackerInfo:Hack systems
+PenguinInfo:Let's drag and kill!
+InsiderInfo:Knowledge is power
 MadmateInfo:Help the Impostors
 BeforeMadmateInfo:Finish your tasks
 MadGuardianInfo:Finish your tasks and help the Impostors
@@ -108,6 +115,7 @@ ExecutionerInfo:Get your target voted out
 EgoistInfo:Take over the Impostors' victory
 LoversInfo:Live happily ever after, together
 JackalInfo:Kill Everyone
+PlagueDoctorInfo:Spread disease to wipe out the crew
 HASFoxInfo:Just stay alive
 HASTrollInfo:Get killed
 GMInfo:You are the Game Master
@@ -126,12 +134,17 @@ PuppeteerInfoLong:(Impostors):\nInstead of killing someone, "kills" can force a 
 TimeThiefInfoLong:(Impostors):\nEvery kill reduces discussion and voting time in meeting.\nIf you are voted out or killed, the lost time returns to meetings.
 SniperInfoLong:(Impostors):\nYou can shoot players from afar.\nYour line of fire continues as a straight line in the direction of the spot where you shapeshift to where you unshift.\nYou cannot perform normal kills until you use up all of your ammo.
 EvilTrackerInfoLong:(Impostors):\nYou can see where others are.\nYou will see arrows pointing to the other impostors and anyone you shapeshift into.\nYou will see a "kill flash" when your fellow impostors kill.
+StealthInfoLong:(Impostors):\nWhen the Stealth kills, players in the same room are blinded for a short while.
+NekoKabochaInfoLong:(Impostors):\nThe Neko-Kabocha kills back their killer.
+EvilHackerInfoLong:(Impostors):\nThe EvilHacker can get the last-minute admin information at the meeting beginning.\nUnoccupied rooms are not shown.\nA '★' marks rooms with impostors.\nRooms with dead-bodies are marked with the number of bodies.\ne.g.)★Cafeteria: 3(DEAD×1)
+PenguinInfoLong:(Impostors):\nPenguins can restrain target by pressing the kill button, and drag around.\While dragging, the target dies by pressing the kill button again or after a certain period of time.\nPress the kill button twice for a direct kill.
+InsiderInfoLong:(Impostors):\nYou can see roles whose you killed.\nYou can also see roles and abilities of all Impostors.\nKIlling specified times tells you Madmate as well.
 MadmateInfoLong:(Impostors):\nYou are a crewmate, but you act as the impostors' ally.\nYou and the impostors cannot recognize each other.\nYou can vent, and you have no tasks.
 MadGuardianInfoLong:(Impostors):\nYou are a crewmate, but you act as the impostors' ally.\nYou and the impostors cannot recognize each other.\nOnce you finish your tasks, you will be shielded from impostor kills.
 MadSnitchInfoLong:(Impostors):\nYou are a crewmate, but you act as the impostors' ally.\nYou and the impostors cannot recognize each other, but once you finish all tasks, you can see who the impostors are.
 SKMadmateInfoLong:(Impostors):\nThe player closest to a Shapeshifter when they shapeshift will become a Sidekick Madmate. You have no tasks.
 BaitInfoLong:(Crewmates):\nWhen you are killed, you force your killer to immediately self-report.
-LighterInfoLong:(Crewmates):\nOnce you finish all your tasks, your vision will increase.
+LighterInfoLong:(Crewmates):\nYour vision will increase.
 MayorInfoLong:(Crewmates):\nYou have multiple votes, which will all go towards the one person you vote or skip.
 SabotageMasterInfoLong:(Crewmates):\nYou can Fix Reactors, O2, Communications by yourself.\nLights can be fixed with the flick of one switch.\nOpening a door will open all doors to that room.
 SheriffInfoLong:(Crewmates):\nYou can kill anyone on Team Impostors.\nThe ability to kill Neutrals is a configurable setting.\nIf you try to kill a crew, you will kill yourself instead. You have no tasks.
@@ -151,6 +164,7 @@ SchrodingerCatInfoLong:(Neutrals):\nWhen you are killed, you block the kill and 
 OpportunistInfoLong:(Neutrals):\nSo long as you are alive at the end of the game, you will win alongside whoever the victor is.
 EgoistInfoLong:(Neutrals):\nWhen all impostors are dead, you solo victory by fulfilling impostor victory conditions.\nYou and the impostors know who each other are.
 JackalInfoLong:(Neutrals):\nJackal can kill all Crewmates, Impostors and Neutrals.\nTeam Jackal wins when living Jackal outnumbers living Crewmates and when there are no Impostors alive.
+PlagueDoctorInfoLong:(Neutrals):\nThe Plague Doctor's goal is to infect every living player.\nThey start by choosing one player to infect, after which anyone who spends a set\namount of time in range of the infected player becomes infected themselves.\nInfection progress is cumulative, and does not reset with distance or after meetings.
 HASFoxInfoLong:(HideAndSeek):\nThey win the game with other Roles (except Troll) only if they are alive at the game end.
 HASTrollInfoLong:(Hide and Seek):\nYou solo victory when you are killed. In this case, even if the Fox is alive, they will lose.
 GMInfoLong:(None):\nThe GM (Game Master) is an observer role.\nTheir presence has no effect on the game, and all players know who the GM is. The GM role will be assigned to the host, who will automatically become a ghost at the start of the game.
@@ -240,9 +254,15 @@ LightsOutSpecialSettings:Fix Lights Special Settings
 DisableAirshipViewingDeckLightsPanel:Disable Viewing Deck Lights Panel(Airship)
 DisableAirshipGapRoomLightsPanel:Disable Gap Room Lights Panel(Airship)
 DisableAirshipCargoLightsPanel:Disable Cargo Lights Panel(Airship)
+BlockDisturbancesToSwitches:Block Switches When They Are Up
 MapModification:Map Modifications
 DisableAirshipMovingPlatform:Disable Moving Platform(Airship)
 AirShipVariableElectrical:Variable Electrical(AirShip)
+ResetDoorsEveryTurns:Reset Doors After Meeting(Airship/Polus)
+DoorsResetMode:Reset Mode
+AllOpen:All Open
+AllClosed:All Closed
+RandomByDoor:Random By Door
 RandomSpawn:Random Spawn
 AirshipAdditionalSpawn:Additional Spawn(Airship)
 CommsCamouflage:Camouflage During Comms
@@ -290,6 +310,7 @@ SabotageMasterSkillLimit:Ability Use Count(Excluding Doors)
 CanMakeMadmateCount:Sidekick Madmate Max Count
 MadSnitchTasks:Mad Snitch Tasks
 MadSnitchCanAlsoBeExposedToImpostor:Known to Impostors
+MadSnitchTaskTrigger:Tasks Until Boost Activated
 MadGuardianCanSeeWhoTriedToKill:Can See Attempted Murderer
 MadmateCanFixLightsOut:Mad Roles Can Fix Lights
 MadmateCanFixComms:Mad Roles Can Fix Comms
@@ -300,8 +321,10 @@ MadmateCanSeeDeathReason:Madmates Can See Cause Of Death
 MadmateExileCrewmate:Madmates Revenge A Crewmate When Exiled
 MadmateVentCooldown:Mad Roles Vent Cooldown
 MadmateVentMaxTime:Mad Roles Max Vent Duration
-LighterTaskCompletedVision:Increased Vision
+LighterMaxVision:Max Vision
 LighterTaskCompletedDisableLightOut:Ignore Fix Lights Effect
+LighterTriggerType:Ability Activation Condition
+LighterTaskTrigger:Tasks Until Boost Activated
 SabotageMasterFixesDoors:Can Open Multiple Doors
 SabotageMasterFixesReactors:Can Fix Both Reactors
 SabotageMasterFixesOxygens:Can Fix Both O2
@@ -309,7 +332,7 @@ SabotageMasterFixesCommunications:Can Fix Both Comms In MIRA HQ
 SabotageMasterFixesElectrical:Can Fix Lights With One Switch
 SheriffCanKill%role%:Can Kill %role%
 SheriffCanKillNeutrals:Can Kill Neutrals
-SheriffCanKillAll:<color=#00fefe>All ON</color>
+SheriffCanKillAll:<color=#4cb3fe>All ON</color>
 SheriffCanKillSeparately:Individual Settings
 In%team%:(Team %team%)
 SheriffMisfireKillsTarget:Misfire Kills Target
@@ -362,6 +385,30 @@ TriggerDouble:Double Click
 AssignOnlyTo%role%:Assign Only To %role%
 WorkhorseNumLongTasks:Additional Long Tasks
 WorkhorseNumShortTasks:Additional Short Tasks
+StealthExcludeImpostors:Exclude Impostors From Blindness
+StealthDarkenDuration:Blindness Duration
+NekoKabochaImpostorsGetRevenged:Impostors Get Revenged
+NekoKabochaMadmatesGetRevenged:Madmates Get Revenged
+NekoKabochaRevengeOnExile:Revenge When Exiled
+EvilHackerCanSeeDeadMark:Can See The Location of Dead-bodies
+EvilHackerCanSeeImpostorMark:Can See The Location of Other Impostors
+EvilHackerCanSeeKillFlash:Can See The Kill-flash for Impostor Kills
+EvilHackerCanSeeMurderRoom:Can See The Murder Location
+PenguinAbductTimerLimit:Dragging Time
+PenguinMeetingKill:Kill if meeting starts during dragging.
+InsiderCanSeeImpostorAbilities:Can See Impostor Abilities
+InsiderCanSeeAllGhostsRoles:Can See All Ghost's Roles
+InsiderCanSeeMadmates:Can See Madmates
+InsiderKillCountToSeeMadmates:Kill Count To See Madmates
+PlagueDoctorInfectLimit:Infect Count
+PlagueDoctorInfectWhenKilled:Infect When Killed
+PlagueDoctorInfectTime:Infect Time
+PlagueDoctorInfectDistance:Infect Distance
+PlagueDoctorInfectInactiveTime:Infect Invalid Time
+PlagueDoctorCanInfectSelf:Can Infect Self
+PlagueDoctorCanInfectVent:Can Infect in Vent
+TaskProgressRate:Task Progress
+TaskCount:Task Count
 HideAndSeekOptions:Hide and Seek Settings
 AllowCloseDoors:Allow Door Sabotage
 TrapperBlockMoveTime:Trapped Duration
@@ -382,6 +429,7 @@ DeathReason.Execution:Execution
 DeathReason.Disconnected:Disconnected
 DeathReason.Fall:Fall
 DeathReason.Revenge:Revenge
+DeathReason.Infected:Infected
 DeathReason.etc:Other
 Alive:Alive
 Win: Wins
@@ -389,6 +437,8 @@ Last-:Last
 SabotageTimeControl:Sabotage Duration Control
 PolusReactorTimeLimit:Polus Reactor Duration
 AirshipReactorTimeLimit:Airship Reactor Duration
+ModifySabotageCooldown:Sabotage Cooldown Control
+SabotageCooldown:Sabotage Cooldown
 Close:Close
 TOHOptions:<color=#00bfff>TOH</color> Options
 ForceJapanese:Force Japanese
@@ -430,7 +480,7 @@ Message.ExportedOptions:Exported options
 Message.LoadedOptions:Loaded options
 Message.OnlyHostCanLoadOptions:Only the host can load options
 Warning.EgoistCannotWin:Egoist cannot win
-Warning.OverrideExiledPlayer:All ejects will be displayed as a tie since the total number of impostors is 1.
+Warning.OverrideExiledPlayer:All ejects will be displayed as a tie since the jackals are in effect.
 Warning.InvalidRpc:Kicked {0} because an invalid RPC was received.\nPlease check that no mods other than TOH installed.
 Warning.NoModHost:No mod installed on the host
 Warning.MismatchedVersion:{0}\nhave a different version of {1}
@@ -488,7 +538,7 @@ StandardHASWaitingTime:Standby
 InvalidArgs:Invalid Args
 On:ON
 Off:OFF
-ColoredOn:<color=#00fefe>ON</color>
+ColoredOn:<color=#4cb3fe>ON</color>
 ColoredOff:<color=#ff4c6f>OFF</color>
 CurrentActiveSettingsHelp:Current Active Settings Help
 WitchCurrentMode:Current Mode:
@@ -496,6 +546,7 @@ WitchModeKill:Kill
 WitchModeSpell:Spell
 WitchModeDouble:Double Enable
 BountyCurrentTarget:Current Target
+StealthDarkened:Darkened: {0}
 Roles:Roles
 Settings:Settings
 Addons:Add-Ons
@@ -551,3 +602,9 @@ DefaultShapeshiftText:Shift
 DisabledBySettings:Disabled by Settings
 Disabled:Disabled
 FailToTrack:Failed To Track
+LastAdminInfo:Last-minute admin information
+MurderNotify:Murder
+Deadbody:DEAD
+PenguinKillButtonText:Drag
+PenguinTimerText:Drag Timer
+Infected:Infected
